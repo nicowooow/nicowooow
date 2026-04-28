@@ -77,6 +77,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicowooow&theme=radical" alt="GitHub Streak"/>
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicowooow&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
